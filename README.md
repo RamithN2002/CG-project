@@ -1,1 +1,2 @@
-# CG-project
+# FLAPPY-BIRD GAME    COMPUTER GRAPHICS (CG) PROJECT       
+The "Flappy Bird" computer graphics project is an exciting and visually captivating implementation of the popular mobile game "Flappy Bird." This project is designed to showcase the power of computer graphics in creating an engaging and interactive gaming experience. It replicates the classic gameplay and visual style of the original game, allowing players to control a bird and navigate it through a series of obstacles, all while aiming for the highest score possible.
